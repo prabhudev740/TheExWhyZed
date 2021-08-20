@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheExWhyZed
+- 👋 Hi, I’m Prabhuprasad 
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Python, ML, AI and DL
 - 💞️ I’m looking to collaborate on
